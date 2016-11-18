@@ -1,0 +1,11 @@
+{
+  "name": "h5lint",
+  "version": "1.0.0",
+  "description": "Simple HTML5 linter, works on fragments of HTML (templates etc)",
+  "main": "index.js",
+  "author": "Mike Ralphson <mike.ralphson@gmail.com>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+  	"jgexml": "latest"
+  }
+}
